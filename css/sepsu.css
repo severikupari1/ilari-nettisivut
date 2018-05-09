@@ -6,7 +6,7 @@
 }
 
 .vihrea {
-    background-color: cadetblue;
+    background-color: #A5E921;
 }
 
 .link-vari {
@@ -327,4 +327,8 @@ p {
 
 .min-width-50 {
 	min-height: 50px;
+}
+
+.erivari {
+	background-color: #001C43;
 }
