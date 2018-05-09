@@ -22,3 +22,8 @@ Olen koulutukseltani koulutettu hieroja sekä urheiluhieroja. Palveluihini kuuluu
 Liikunta ja urheilu on aina ollut iso osa elämääni. Lentopalloa olen pelannut pääsarjatasolla yhdeksän kauden ajan. Pyrinkin hierojana käyttämään hyväkseni urheilu-uran aikana kertyneitä tietoja ja taitoja.
 
 Olen myös suorittanut liikunnanohjauksen perustutkinnon. Annankin mielelläni vinkkejä myös liikuntaan ja terveyteen liittyvissä kysymyksissä.
+
+
+bg color hex 001C43
+
+teksti A5E921
