@@ -332,3 +332,11 @@ p {
 .erivari {
 	background-color: #001C43;
 }
+
+.bg-color-breadcrumb {
+	background-color: #001C43;
+}
+
+.color-active {
+	color: white !important;
+}
