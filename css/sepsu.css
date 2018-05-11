@@ -340,3 +340,8 @@ p {
 .color-active {
 	color: white !important;
 }
+
+.color {
+	   color: white;
+    text-shadow: 1px 1px 5px #000000;
+}
