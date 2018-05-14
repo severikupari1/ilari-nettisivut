@@ -364,3 +364,11 @@ p {
 	color: white;
 	text-shadow: 1px 1px 5px #000000;
 }
+
+.max-koko-alotus {
+	max-height: 300px;
+}
+
+.max-height-hinnasto {
+	max-height: 100px;
+}
