@@ -1,0 +1,31 @@
+hieronta		8100	
+ 	Samanlaisia	
+urheiluhieroja		1900	
+ 	Samanlaisia	
+hieronta kuopio		1600	
+ 	Samanlaisia	
+urheiluhieronta kuopio		170	
+ 	Samanlaisia	
+urheiluhieroja kuopio		170	
+ 	Samanlaisia	
+hieronta kuopio nettiajanvaraus		90	
+ 	Samanlaisia	
+hieronta nettiajanvaraus		20	
+ 	Samanlaisia	
+hieronta toivala		0	
+ 	Samanlaisia	
+urheiluhieroja toivala		0	
+ 	Samanlaisia	
+hieroja kotikäynti kuopio		0	
+ 	Samanlaisia	
+urheiluhieroja kotikäynti kuopio		0	
+ 	Samanlaisia	
+hieroja yrityskäynti		0	
+ 	Samanlaisia	
+hieroja yrityskäynti kuopio		0	
+ 	Samanlaisia	
+hieronta kuopio opiskelija alennus		0	
+ 	Samanlaisia	
+urheiluhieronta kuopio opiskelija alennus		0	
+ 	Samanlaisia	
+urheiluhieroja kuopio nettiajanvaraus		0
