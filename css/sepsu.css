@@ -372,3 +372,7 @@ p {
 .max-height-hinnasto {
 	max-height: 100px;
 }
+
+.panel-footer {
+	padding-bottom: 1rem;
+}
